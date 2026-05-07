@@ -1,0 +1,47 @@
+*{
+    color: rgb(204, 204, 204);
+    background-color: rgb(32, 33, 37);
+}
+.p1{
+    text-align: center;
+}
+.p2{
+    text-align: left;
+}
+.p3{
+    text-align: right;
+}
+#fonte{
+    font-size: 24px;
+}
+p.borda{
+    border-style: solid;
+    border-color: greenyellow;
+    border-width: 5px;
+}
+p.margem{
+    margin: 25px 10px 10px 10px;
+    border-style: dashed;
+    border-color: black;
+}
+p.propriedade{
+    margin: 25px;
+    border-style: dotted;
+    padding: 20px;
+}
+p.contorno{
+    outline-style: double;
+    outline-color: palevioletred;
+    margin: 40px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+}
+.imagem{
+width: 30%;
+height: auto;
+}
+.center{
+    text-align: center;
+    width: 100%;
+}
