@@ -85,6 +85,10 @@ body {
   background: #1da002;
 }
 
+.escudo-topo{
+width: 90px;
+}
+
 
 .form-control,
 .form-select {
